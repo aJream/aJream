@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @aJream
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ajream&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<!---
-aJream/aJream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Metrics](https://metrics.lecoq.io/ajream?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+
+<div align="center"> <img src="https://metrics.lecoq.io/ajream?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"></div>
+
 
