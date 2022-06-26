@@ -5,4 +5,5 @@
  -->
 ![](https://github.com/aJream/aJream/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+![](https://github.com/aJream/aJream/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- <div align="center"> <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajream&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> -->
